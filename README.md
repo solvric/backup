@@ -34,3 +34,12 @@ https://drive.google.com/file/d/1kQEUg94aWkmnGcta-1J50Isuh82H3GkH/view?usp=drive
 
 # SWF
 https://drive.google.com/drive/folders/1wKWUZBpup42OSsv2Hf9fmUPCgEtOQhqa?usp=sharing
+
+# ROMS
+https://drive.google.com/drive/folders/1bWNJltWDmmL8QCoQjW7OPze2OUmBFDjs?usp=sharing
+
+# PPSSPP
+https://drive.google.com/file/d/1rvnCMKWSmu3B_VY_JPQMzLO2x8eVdkYh/view?usp=drive_link
+
+# PCSX2
+https://drive.google.com/drive/folders/1HuHcIGBMyyAPJK32u77xnlkRVHGKXqVP?usp=sharing
