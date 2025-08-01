@@ -47,3 +47,7 @@ https://drive.google.com/drive/folders/1HuHcIGBMyyAPJK32u77xnlkRVHGKXqVP?usp=sha
 # LOL
 https://drive.google.com/file/d/1InMnI_YbGe-QaF4TDH1250NDQ1wU9Rdj/view?usp=sharing
 
+# Cult of The Lamb LocalLow Save Folder
+https://drive.google.com/drive/folders/1wZ9ql2KBUga2GVIKC5OBI21ZXzd3VoPw?usp=sharing
+
+# Cult of The Lamb + 6 DLC
