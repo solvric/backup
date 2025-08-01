@@ -43,3 +43,7 @@ https://drive.google.com/file/d/1rvnCMKWSmu3B_VY_JPQMzLO2x8eVdkYh/view?usp=drive
 
 # PCSX2
 https://drive.google.com/drive/folders/1HuHcIGBMyyAPJK32u77xnlkRVHGKXqVP?usp=sharing
+
+# LOL
+https://drive.google.com/file/d/1InMnI_YbGe-QaF4TDH1250NDQ1wU9Rdj/view?usp=sharing
+
