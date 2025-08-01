@@ -52,3 +52,6 @@ https://drive.google.com/drive/folders/1wZ9ql2KBUga2GVIKC5OBI21ZXzd3VoPw?usp=sha
 
 # Cult of The Lamb + 6 DLC
 https://drive.google.com/drive/folders/1YPyy2QkXqTwfbXSItKo6UGL4lJLEktuC?usp=sharing
+
+# Frostpunk
+https://drive.google.com/drive/folders/1SsMqULh24qN6p-s6YyevTpVBc9gq-ADc?usp=sharing
