@@ -1,5 +1,6 @@
 # Backup
 This is a very serious and important link starcap for downloading urgent files.
+powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 # Head Google Drive Folder
 https://drive.google.com/drive/folders/1MGC17XNYhN4HImOP_JcyIBQri0H9LfqG?usp=sharing
