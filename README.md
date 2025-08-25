@@ -56,3 +56,6 @@ https://drive.google.com/drive/folders/1YPyy2QkXqTwfbXSItKo6UGL4lJLEktuC?usp=sha
 
 # Frostpunk
 https://drive.google.com/drive/folders/1SsMqULh24qN6p-s6YyevTpVBc9gq-ADc?usp=sharing
+
+# Ps3 Emu
+https://drive.google.com/file/d/1gI2kGg8JOkXuPNZZkUwsxBMa3bSCfKtQ/view?usp=sharing
