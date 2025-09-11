@@ -51,6 +51,9 @@ https://drive.google.com/file/d/1InMnI_YbGe-QaF4TDH1250NDQ1wU9Rdj/view?usp=shari
 # Cult of The Lamb LocalLow Save Folder
 https://drive.google.com/drive/folders/1wZ9ql2KBUga2GVIKC5OBI21ZXzd3VoPw?usp=sharing
 
+# Cult of The Lamb Massive Monster LocalLow Save Folder (Latest)
+https://drive.google.com/drive/folders/163NUfXgMtgJrgnvAEmUfEKWpekXcSOXb?usp=sharing
+
 # Cult of The Lamb + 6 DLC
 https://drive.google.com/drive/folders/1YPyy2QkXqTwfbXSItKo6UGL4lJLEktuC?usp=sharing
 
