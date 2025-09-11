@@ -59,3 +59,9 @@ https://drive.google.com/drive/folders/1SsMqULh24qN6p-s6YyevTpVBc9gq-ADc?usp=sha
 
 # Ps3 Emu
 https://drive.google.com/file/d/1gI2kGg8JOkXuPNZZkUwsxBMa3bSCfKtQ/view?usp=sharing
+
+# One.one.one.one
+https://drive.google.com/file/d/14US3aoWNTUtVJtm_kMTohhjHh2gju4GM/view?usp=sharing
+
+# Tor
+https://drive.google.com/file/d/1ISwQQvMRbuzZSK6f6x9R_6aFFjZuqaaX/view?usp=sharing
